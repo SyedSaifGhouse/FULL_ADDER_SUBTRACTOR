@@ -50,6 +50,7 @@ Borrow out = A'Bin + A'B + BBin
 **Procedure**
 
 **Full Adder:**
+
 1.Open Quartus II and create a new project.
 
 2.Use schematic design entry to draw the full adder circuit.
@@ -61,6 +62,7 @@ Borrow out = A'Bin + A'B + BBin
 5.Implement the design on the target device and program it.
 
 **Full Subtractor:**
+
 1.Follow the same steps as for the full adder.
 
 2.Draw the full subtractor circuit using schematic design.
